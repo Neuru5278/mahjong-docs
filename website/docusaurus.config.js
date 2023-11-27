@@ -59,7 +59,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/tile.png',
       navbar: {
-        title: '마작 블로그',
+        title: '느루의 마작 블로그',
         logo: {
           alt: 'My Site Logo',
           src: 'img/tile.png',
