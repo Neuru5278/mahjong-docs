@@ -1,0 +1,165 @@
+{
+  "main": {
+    "id": "68f3cda064aeb9ac",
+    "type": "split",
+    "children": [
+      {
+        "id": "25ae9b61e8307731",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ebc4af341e88f20a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "blog/리치마작 역 노림 분류.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "31d4aa4230166ab2",
+    "type": "split",
+    "children": [
+      {
+        "id": "6296ec597e4daf48",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dd934226c1f1df4c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3ab37fb49b19219b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e0f4741254368084",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "24c90a1129857b9b",
+    "type": "split",
+    "children": [
+      {
+        "id": "b3258133aa314ef6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f8de312aa806d426",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "blog/리치마작 역 노림 분류.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1567a387621777a7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "blog/리치마작 역 노림 분류.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2a31232e903136f1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e89859c7baf9ada5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "blog/리치마작 역 노림 분류.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "obsidiosaurus:Obsidiosaurus": false
+    }
+  },
+  "active": "ebc4af341e88f20a",
+  "lastOpenFiles": [
+    "docs/sidebar1/topic1/test.md",
+    "blog/리치마작 역 노림 분류.md",
+    "blog/sidebar/topic1/test.md",
+    "docs/sidebar/topic1/test",
+    "docs/sidebar1/topic1",
+    "docs/sidebar1",
+    "docs",
+    "blog/sidebar/topic1/리치마작 역 노림 분류.md",
+    "blog/sidebar/topic1",
+    "blog/sidebar",
+    "blog",
+    "assets"
+  ]
+}
