@@ -13,10 +13,10 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://your-docusaurus-site.example.com',
+  url: 'https://Neuru5278.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '/mahjong-docs',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -45,8 +45,6 @@ const config = {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
         theme: {
           customCss: './src/css/custom.css',
@@ -67,23 +65,12 @@ const config = {
           src: 'img/logo.svg',
         },
         items: [
-          //{
-          //  type: 'docSidebar',
-          //  sidebarId: 'tutorialSidebar',
-          //  position: 'left',
-          //  label: 'Tutorial',
-          //},
-          //{to: '/blog', label: 'Blog', position: 'left'},
-          {
-            href: 'https://github.com/facebook/docusaurus',
-            label: 'GitHub',
-            position: 'right',
-          },
+          
         ],
       },
       footer: {
         style: 'dark',
-        copyright: `Copyright © 2023 Neuru.`,
+        copyright: `Copyright © 2023 Neuru`,
       },
       prism: {
         theme: prismThemes.github,
