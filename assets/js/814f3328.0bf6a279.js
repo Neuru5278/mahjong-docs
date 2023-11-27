@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"\ub9ac\uce58\ub9c8\uc791 \uc5ed \ub178\ub9bc \ubd84\ub958","permalink":"/mahjong-docs/\ub9ac\uce58\ub9c8\uc791 \uc5ed \ub178\ub9bc \ubd84\ub958","unlisted":false}]}')}}]);
